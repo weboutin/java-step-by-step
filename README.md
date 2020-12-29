@@ -12,6 +12,8 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
 
 整个系列的代码在 [这个仓库](https://github.com/weboutin/java-blog) 完成。
 
+## 目录
+
 * 1 [第一个 Java 程序](#)
   * 1.1 写出第一个 Java 程序
   * 1.2 引入第三方 class
