@@ -14,11 +14,20 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
 
 ## 目录
 
-* 1 [第一个 Java 程序](#)
-  * 1.1 写出第一个 Java 程序
-  * 1.2 引入第三方 class
-  * 1.3 构建自己的 jar 并引入
-  * 1.4 连接 MySQl
+* 1. [第一个 Java 程序](#)
+  * 1.1. 写出第一个 Java 程序
+  * 1.2. 引入第三方 class
+  * 1.3. 构建自己的 jar 并引入
+  * 1.4. 连接 MySQl - JDBC
   
-* 2 [最简单的 Web 程序 - JSP]
-* 3 [Java Web 之祖 - Servlet]
+* 2. 最简单的 Web 程序 - JSP
+  * 2.1. 部署 Helloworld
+  * 2.2. 连接 MySQL - JDBC
+  * 2.3. CURD
+  * 2.4. 抽象 DBUtils
+  
+* 3. Java Web 之祖 - Servlet
+  * 3.1. 部署 Helloworld
+  * 3.2. 编写 FESTful API
+  * 3.3. CURD
+  * 3.4. 抽象 DBUtils
