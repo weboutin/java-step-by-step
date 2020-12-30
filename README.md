@@ -16,9 +16,8 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
 
 * 1 [第一个 Java 程序](#)
   * 1.1 写出第一个 Java 程序
-  * 1.2 引入第三方 class
-  * 1.3 构建自己的 jar 并引入
-  * 1.4 连接 MySQl - JDBC
+  * 1.2 引入第三方类库
+  * 1.3 连接 MySQL - JDBC
   
 * 2 最简单的 Web 程序 - JSP
   * 2.1 部署 Helloworld
