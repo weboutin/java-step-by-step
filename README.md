@@ -21,9 +21,10 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
   
 * 2 最简单的 Web 程序 - JSP
   * 2.1 部署 Helloworld
-  * 2.2 连接 MySQL - JDBC
-  * 2.3 CURD
-  * 2.4 抽象 DBUtils
+  * 2.2 开发一个简易的用户中心
+  * 2.3 连接 MySQL - JDBC
+  * 2.4 CURD
+  * 2.5 抽象 DBUtils
   
 * 3 Java Web 之祖 - Servlet
   * 3.1 部署 Helloworld
