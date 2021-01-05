@@ -12,7 +12,7 @@ Tomcat 是一个开箱即用的服务器，进入 Tomcat 的目录(下面通过 
 
 删除 ~Tomcat/webapps/ROOT 下的所有文件，创建属于自己的 index.jsp :
 
-  <% out.println("<h1>Helloworld</h1>");%>
+    <% out.println("<h1>Helloworld</h1>");%>
   
 out 是 JSP 的内置对象，可以在程序中直接使用。
 
