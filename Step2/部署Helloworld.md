@@ -14,6 +14,8 @@ Tomcat 是一个开箱即用的服务器，进入 Tomcat 的目录(下面通过 
 
     <% out.println("<h1>Helloworld</h1>");%>
   
+删除 ROOT 下所有文件然后在这编写自己的项目在生产上并不是一个很好的做法，但这是最快的方法，部署项目不是这里学习的重点，故不拘泥于做法是否合适；
+
 out 是 JSP 的内置对象，可以在程序中直接使用。
 
 .jsp 文件会被编译成 .java 和 .class 文件，保存在 ~tomcat/work/Catalina/localhost/ROOT/org/apache/jsp/ 目录下
