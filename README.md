@@ -28,6 +28,6 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
   
 * 3 Java Web 之祖 - Servlet
   * 3.1 部署 Helloworld
-  * 3.2 编写 FESTful API
+  * 3.2 博客系统的需求分析和开发文档设计
   * 3.3 CURD
   * 3.4 抽象 DBUtils
