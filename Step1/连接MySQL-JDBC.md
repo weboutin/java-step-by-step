@@ -13,8 +13,19 @@ Oracle / DB2 / MYSQL 等关系型数据库官方都提供有对应的 jar 包来
 
 下面通过可以通过 [MySQL官网](https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-examples.html)的例子来学习使用 JDBC 。
 
-首先建立 App.java
+通过完整[源代码](https://github.com/weboutin/sbs-impl/tree/release/v1.0) 运行可以直接看到效果，下面进行一步步的拆解：
 
+    class App {
+        public static void main(String[] args) {
+            try {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                conn = DriverManager.getConnection("jdbc:mysql://localhost/test?user=root&password=root");
+            } catch (Exception e) {
+                System.out.println(e.getMessage());
+            }
+        }
+    }
   
+
 
 [MySQL JDBC Driver](https://github.com/mysql/mysql-connector-j/blob/release/8.0/src/main/user-impl/java/com/mysql/cj/jdbc/Driver.java)
