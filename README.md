@@ -16,7 +16,7 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
 
 * 1 [第一个 Java 程序](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step1/)
   * 1.1 [写出第一个 Java 程序](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step1/%E7%AC%AC%E4%B8%80%E4%B8%AAJava%E7%A8%8B%E5%BA%8F.md)
-  * 1.2 引入第三方类库
+  * 1.2 [引入第三方类库](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step1/%E5%BC%95%E5%85%A5%E7%AC%AC%E4%B8%89%E6%96%B9%E7%B1%BB%E5%BA%93.md)
   * 1.3 [连接 MySQL - JDBC](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step1/%E8%BF%9E%E6%8E%A5MySQL-JDBC.md)
   
 * 2 最简单的 Web 程序 - JSP
