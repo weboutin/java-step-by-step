@@ -36,3 +36,5 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
   
 * 4 Spring
 * 5 SpringBoot
+## 番外
+  * [XML 还是 Annotation.md](https://github.com/weboutin/javaweb-step-by-step/blob/main/extra/XML%20%E8%BF%98%E6%98%AF%20Annotation.md)
