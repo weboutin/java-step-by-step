@@ -19,5 +19,27 @@
     -DgroupId=com.mycompany.app \
     -DartifactId=my-webapp \
     -DarchetypeCatalog=internal 
-    
+  
+
+之前的项目结构：
+
+* WEB-INF   
+	* |- classes
+		* |- Users.class
+    * |- lib
+        * |- json-20201115.jar
+        * |- servlet-api.jar
+    * |- web.xml
+* Users.java
+
+使用 Maven 后的项目结构
+
+* src
+    * |- main
+        * |- resources
+        * |- webapp
+            * |- index.jsp
+            * |- WEB-INF
+                * |- web.xml
+* pom.xml
 
