@@ -43,3 +43,26 @@
                 * |- web.xml
 * pom.xml
 
+先来分析以下这个工程目录：
+
+pom.xml 文件是 Maven 的配置文件，项目依赖的 jar 包都在这里描述，类似于 Node.js 的 package.json 和 PHP 的 composer.json
+
+src/main 里包含项目的所有编码
+
+src/main/resources 里面存储项目用的静态文件，html/js ... 等
+
+src/main/webapp 里面的的是 tomcat 访问的文件，跟之前的项目结构类似。
+
+项目结构经过了这么一次调整，项目就不能之前放到 tomcat 的 webapps 里面直接使用了，而需要使用 maven 先进行打包。
+
+在项目目录下执行 
+
+    mvn package -f ./pom.xml
+    
+在 src 下会生成 target 目录，里面包含了编译后的 .class 文件。
+
+第一次打包需要下载很多 maven 依赖的，打包速度较慢。
+
+
+
+
