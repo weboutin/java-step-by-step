@@ -63,6 +63,8 @@ src/main/webapp 里面的的是 tomcat 访问的文件，跟之前的项目结�
 
 第一次打包需要下载很多 maven 依赖的，打包速度较慢。
 
+构建完成后，将项目里面的 war 包放置到 tomcat 的 webapps 目录下，就可以被访问；
+
 
 
 
