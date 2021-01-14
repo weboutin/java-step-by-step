@@ -31,6 +31,7 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
   * 3.2 [第一个Servlet程序](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step3/%E7%AC%AC%E4%B8%80%E4%B8%AAServlet%E7%A8%8B%E5%BA%8F.md)
   * 3.3 [返回 JSON 对象](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step3/%E8%BF%94%E5%9B%9EJSON%E5%AF%B9%E8%B1%A1.md)
   * 3.4 [认识Maven](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step3/%E8%AE%A4%E8%AF%86Maven.md)
+  * 3.5 Java接口测试脚本
   * 3.4 CURD
   * 3.5 抽象 DBUtils
   
