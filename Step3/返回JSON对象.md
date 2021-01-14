@@ -14,7 +14,7 @@ JSON 几乎成为 WEB 前后端通讯的标准格式（有些仍然使用 XML，
 
 去 [Maven 仓库](https://mvnrepository.com/) 搜索 JSON， 看看都有些什么优秀的第三方库可以支持这种做法；
 
-可以看到 JSON in Java 这个库用的人最多，考虑看看这个库用起来是否顺手；
+可以看到 [JSON in Java](https://mvnrepository.com/artifact/org.json/json) 这个库用的人最多，考虑看看这个库用起来是否顺手；
 
 通过 [Maven Search](https://search.maven.org/artifact/org.json/json) 可以搜索到这个库的 JAR 包下载方式
 
