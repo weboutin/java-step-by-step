@@ -29,3 +29,7 @@ Oracle / DB2 / MYSQL 等关系型数据库官方都提供有对应的 jar 包来
 
 
 [MySQL JDBC Driver](https://github.com/mysql/mysql-connector-j/blob/release/8.0/src/main/user-impl/java/com/mysql/cj/jdbc/Driver.java)
+
+Statement 的用处是什么？为什么需要close？
+
+ResultSet 的用处是什么？为什么需要close？
