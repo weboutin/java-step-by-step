@@ -33,9 +33,9 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
   * 3.4 [认识Maven](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step3/%E8%AE%A4%E8%AF%86Maven.md)
   * 3.5 [路由对HTTP请求参数的处理](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step3/%E8%B7%AF%E7%94%B1%E5%AF%B9HTTP%E8%AF%B7%E6%B1%82%E5%8F%82%E6%95%B0%E7%9A%84%E5%A4%84%E7%90%86.md)
   * 3.* [JDBC 和 单例]()
-  * 3.* 抽象 DBUtils
   * 3.* [文件上传]()
   * 3.* [IDE debug]()
+  * 3.* [开车换轮-JDBC换MyBatis]()
   
 * 4 Spring
 * 5 SpringBoot
