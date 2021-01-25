@@ -35,7 +35,7 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
   * 3.* [JDBC 和 单例]()
   * 3.* [文件上传]()
   * 3.* [IDE debug]()
-  * 3.* [开车换轮-JDBC换MyBatis]()
+  * 3.* [开车换轮-JDBC换MyBatis](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step3/%E5%BC%80%E8%BD%A6%E6%8D%A2%E8%BD%AE-JDBC%E6%8D%A2MyBatis.md)
   
 * 4 Spring
 * 5 SpringBoot
