@@ -9,6 +9,12 @@ MyBatis 的 [github repo](https://github.com/mybatis/mybatis-3/tree/master/src/s
   
 看文档第一个困惑点是 xml 文件路径是如何管理的？
 
+session 生命周期
 
-
-
+1. 数据库连接中文编码
+2. 开发者模式输出sql语句
+3. xml 和 annotation 的实现\
+    parameterType
+    resultType
+4. 获取insert/update 的insertid
+5. transaction autoCommit
