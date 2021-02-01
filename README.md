@@ -42,6 +42,8 @@ javaweb-step-by-step，希望通过这系列教程，循序渐进地学习 Java 
   
 * 4 Spring
 * 5 SpringBoot
+  * 5.* [第一个 SpringBoot 程序](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step5/%E7%AC%AC%E4%B8%80%E4%B8%AA%20SpringBoot%20%E7%A8%8B%E5%BA%8F.md)
+  * 6.* [构建 RESTful 接口](https://github.com/weboutin/javaweb-step-by-step/blob/main/Step5/%E7%AC%AC%E4%B8%80%E4%B8%AA%20SpringBoot%20%E7%A8%8B%E5%BA%8F.md)
 ## 番外
   * [XML 还是 Annotation](https://github.com/weboutin/javaweb-step-by-step/blob/main/extra/XML%20%E8%BF%98%E6%98%AF%20Annotation.md)
   * [速写了一个项目前端sbs-ui](#)
